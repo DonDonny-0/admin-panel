@@ -1,0 +1,30 @@
+{
+  "name": "admin-panel",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000a\u0000d\u0000m\u0000i\u0000n\u0000-\u0000p\u0000a\u0000n\u0000e\u0000l\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DonDonny-0/admin-panel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/DonDonny-0/admin-panel/issues"
+  },
+  "homepage": "https://github.com/DonDonny-0/admin-panel#readme",
+  "devDependencies": {
+    "typescript": "^6.0.2",
+    "typescript-eslint": "^8.58.1",
+    "vite": "^8.0.8"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.2.2",
+    "@vitejs/plugin-react": "^6.0.1"
+  }
+}
