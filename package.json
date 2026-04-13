@@ -44,7 +44,7 @@
     "formik": "^2.4.9",
     "react": "^19.2.5",
     "react-dom": "^19.2.5",
-    "react-pro-sidebar": "^1.1.0",
+    "react-pro-sidebar": "^0.7.1",
     "react-router-dom": "^6.30.3",
     "yup": "^1.7.1"
   }
